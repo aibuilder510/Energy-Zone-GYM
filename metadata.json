@@ -1,0 +1,6 @@
+{
+  "name": "Energy Zone Gym",
+  "description": "Sector 38 Gurugram's most intense gym. Boxing, Kickboxing, HIIT, Personal Training & more. Open 5:30 AM to 12 AM. 4.8 stars · 283 reviews. Book FREE trial now!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
